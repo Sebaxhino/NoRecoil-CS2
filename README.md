@@ -46,5 +46,4 @@ v2:
 ```
 
 ## ![]Preview:
-![ezgif com-optimize]
 https://i.imgur.com/qr4JWhu.gif
