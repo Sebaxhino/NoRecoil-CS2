@@ -47,5 +47,3 @@ v2:
 
 ## ![]Preview:
 https://i.imgur.com/qr4JWhu.gif
-
-<video src="https://i.imgur.com/MlRMOME.mp4"></video>
