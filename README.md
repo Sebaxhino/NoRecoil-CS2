@@ -46,4 +46,4 @@ v2:
 ```
 
 ## ![]Preview:
-<center><img src"https://i.imgur.com/qr4JWhu.gif" height="450"></img></center>
+https://i.imgur.com/qr4JWhu.gif
